@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe9e3e33b044f8c4f9395d54a34f9222, type: 3}
+  m_Name: FloorRoom
+  m_EditorClassIdentifier: 
+  orientation: -1
+  RandomTiles:
+  - {fileID: 11400000, guid: 7decd5ae9b9930647900fa9a230e32a6, type: 2}
+  - {fileID: 11400000, guid: aa372b7ba75f0284b94e81d6c962ec6c, type: 2}
+  - {fileID: 11400000, guid: d819ff9a3e0d67a42bb2d5198dcb4d18, type: 2}
+  - {fileID: 11400000, guid: f4d21f418ab710f41b75056f5e935fcd, type: 2}
+  - {fileID: 11400000, guid: 026729e71c0a4694d9476352c24a2212, type: 2}
+  - {fileID: 11400000, guid: ae661b9e20417694b812b7beea79042f, type: 2}
+  Probabilities: 0c0000000c0000000c0000000c0000000100000001000000

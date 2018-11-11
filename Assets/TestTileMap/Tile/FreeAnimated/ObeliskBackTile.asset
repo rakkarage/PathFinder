@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: ObeliskBackTile
+  m_EditorClassIdentifier: 
+  AnimatedSprites:
+  - {fileID: 21300212, guid: fd2bdf968b9ede148ae3f9d49e71b302, type: 3}
+  - {fileID: 21300214, guid: fd2bdf968b9ede148ae3f9d49e71b302, type: 3}
+  - {fileID: 21300216, guid: fd2bdf968b9ede148ae3f9d49e71b302, type: 3}
+  - {fileID: 21300218, guid: fd2bdf968b9ede148ae3f9d49e71b302, type: 3}
+  - {fileID: 21300220, guid: fd2bdf968b9ede148ae3f9d49e71b302, type: 3}
+  - {fileID: 21300222, guid: fd2bdf968b9ede148ae3f9d49e71b302, type: 3}
+  - {fileID: 21300224, guid: fd2bdf968b9ede148ae3f9d49e71b302, type: 3}
+  - {fileID: 21300226, guid: fd2bdf968b9ede148ae3f9d49e71b302, type: 3}
+  - {fileID: 21300228, guid: fd2bdf968b9ede148ae3f9d49e71b302, type: 3}
+  - {fileID: 21300230, guid: fd2bdf968b9ede148ae3f9d49e71b302, type: 3}
+  - {fileID: 21300232, guid: fd2bdf968b9ede148ae3f9d49e71b302, type: 3}
+  - {fileID: 21300234, guid: fd2bdf968b9ede148ae3f9d49e71b302, type: 3}
+  - {fileID: 21300236, guid: fd2bdf968b9ede148ae3f9d49e71b302, type: 3}
+  - {fileID: 21300238, guid: fd2bdf968b9ede148ae3f9d49e71b302, type: 3}
+  - {fileID: 21300240, guid: fd2bdf968b9ede148ae3f9d49e71b302, type: 3}
+  - {fileID: 21300242, guid: fd2bdf968b9ede148ae3f9d49e71b302, type: 3}
+  - {fileID: 21300244, guid: fd2bdf968b9ede148ae3f9d49e71b302, type: 3}
+  RandomStartTime: 0
+  Speed: {x: 1, y: 1}
+  TileColliderType: 0

@@ -1,0 +1,10 @@
+{
+    "name": "TestTileMap",
+    "references": [
+        "ReorderableInspector"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
