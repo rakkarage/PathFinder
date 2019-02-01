@@ -2,15 +2,16 @@
 
 <http://henrysoftware.ca>
 
-code: rakkarage@gmail.com
-
 art: benmhenry@gmail.com
 
+code: rakkarage@gmail.com
+
+![PathFinder](ActualCrazyAtlanticblackgoby.gif)
 
 ## Description
 
 - 2d top-down tile a-star path finding system
-- updated for new unity tilemap system and unity 2d challenge
+- updated for new unity tilemap system
 
 ### Todo
 
